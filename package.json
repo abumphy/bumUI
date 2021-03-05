@@ -1,0 +1,23 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.7"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "lerna": "^3.22.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "description": "A Component Library for Vue3.0"
+}
