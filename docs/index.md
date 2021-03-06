@@ -5,7 +5,7 @@ heroAlt: Logo image
 heroText: BumUI
 tagline: BumUI，一套基于 Vue 3.0 的桌面端组件库
 actionText: Get Started
-actionLink: /guide/
+actionLink: /guide/install
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.

@@ -1,6 +1,6 @@
 # `@bum-ui/button`
 
-> TODO: description
+按钮组件
 
 ## Usage
 
